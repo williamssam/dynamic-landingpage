@@ -26,7 +26,7 @@ I created a landing page that tells the time and also automatically changes the 
 
 ### Links
 
-- Live Site URL: [Dynamic Landing Page](https://williamssam.github.io/dynamic-landing-page)
+- Live Site URL: [Dynamic Landing Page](https://williamssam.github.io/dynamic-landingpage)
 
 ## My process
 
